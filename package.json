@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "tabla",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app --base 3",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
+
+
